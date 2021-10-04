@@ -16,7 +16,7 @@
 食事の前後と毎朝の体重計の記録時
 
 ## 設計書
-<...>
+https://drive.google.com/drive/folders/1Bmrf1nQS-nRsuvisJcV10_idajB6zmeq?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1JLTbYOdlPlcvrhfIFe-QPoISLJ3HoDHt77I2X9yG5Nk/edit#gid=0
